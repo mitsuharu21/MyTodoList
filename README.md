@@ -7,5 +7,8 @@ Todoリスト
 ・リスト値の保持
 
 動作環境
-・Swift version 4.2.1 ・Xcode Version 10.1 (10B61) ・MacBook Pro (Retina, 15-inch, Mid 2015)
+・Swift version 4.2.1 
+・Xcode Version 10.1 (10B61) 
+・MacBook Pro (Retina, 15-inch, Mid 2015)
+
 動作イメージ(youtube)：https://youtu.be/3GOkKVe-wrY
